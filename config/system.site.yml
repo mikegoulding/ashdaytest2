@@ -1,0 +1,14 @@
+uuid: 1b62f8d9-71cf-4347-9294-fbac5faf3e22
+name: ashdaytest2
+mail: mike@ashday.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
